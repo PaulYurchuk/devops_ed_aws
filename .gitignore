@@ -1,0 +1,3 @@
+*.pem
+set_env.bat
+cloudtrail/
